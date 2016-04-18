@@ -1,4 +1,4 @@
-Keiser M3i Bluetooth LE Broadcast Parser
+Keiser M3i Bluetooth LE Broadcast Parser in C#
 ========================
 
 This parser library allows raw broadcast data to be parsed into a highly portable *Broadcast* object.
