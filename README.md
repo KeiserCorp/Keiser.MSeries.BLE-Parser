@@ -27,7 +27,5 @@ Have a repository that you think would work well with this parser?  Send us a me
 [iosScanner]: <https://github.com/samuraipapa/CoreBluetoothBasicScanner>
 
 
-License
-----
-
-MIT
+## Copyright and License
+Copyright [Keiser Corporation](http://keiser.com/) 2016 under the [MIT license](LICENSE.md).
